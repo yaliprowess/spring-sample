@@ -6,4 +6,9 @@ git add README.md read.txt
 git commit -m "First commit"
 git push
 
-Sample Stash
+++++++++++++++++++
+git pull 
+## conflict
+git stash
+git stash pop
+
